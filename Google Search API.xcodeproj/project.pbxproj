@@ -11,6 +11,7 @@
 		DE7A59B025F296C000DC7FBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A59AF25F296C000DC7FBC /* ContentView.swift */; };
 		DE7A59B225F296C600DC7FBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A59B125F296C600DC7FBC /* Assets.xcassets */; };
 		DE7A59B525F296C600DC7FBC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A59B425F296C600DC7FBC /* Preview Assets.xcassets */; };
+		DE7A59EC25FA807700DC7FBC /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A59EB25FA807700DC7FBC /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DE7A59B125F296C600DC7FBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE7A59B425F296C600DC7FBC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE7A59B625F296C600DC7FBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE7A59EB25FA807700DC7FBC /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				DE7A59AF25F296C000DC7FBC /* ContentView.swift */,
 				DE7A59B125F296C600DC7FBC /* Assets.xcassets */,
 				DE7A59B625F296C600DC7FBC /* Info.plist */,
+				DE7A59EB25FA807700DC7FBC /* SwiftyJSON.swift */,
 				DE7A59B325F296C600DC7FBC /* Preview Content */,
 			);
 			path = "Google Search API";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE7A59EC25FA807700DC7FBC /* SwiftyJSON.swift in Sources */,
 				DE7A59B025F296C000DC7FBC /* ContentView.swift in Sources */,
 				DE7A59AE25F296C000DC7FBC /* Google_Search_APIApp.swift in Sources */,
 			);
